@@ -8,4 +8,7 @@ had to run `export LANG="en_US.UTF-8"`
 
 
 
->>>
+>>> [aug-19] found out tctl will soon be deprecated, temporal cli is now the preferred way to setup server, services and communicate.
+
+
+>>> [aug-19] install temporal cli - https://learn.temporal.io/getting_started/java/dev_environment/?build-tool=gradle&os=mac
