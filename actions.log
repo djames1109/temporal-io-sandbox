@@ -1,0 +1,11 @@
+>>> [aug-19] tried running docker compose up to instantiate temporal server, but encountered an error:
+
+Fatal Python error: config_get_locale_encoding: failed to get the locale encoding: nl_langinfo(CODESET) failed
+Python runtime state: preinitialized
+
+--
+had to run `export LANG="en_US.UTF-8"`
+
+
+
+>>>
